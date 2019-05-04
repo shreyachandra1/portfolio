@@ -66,7 +66,7 @@ body {
   line-height: 1.5;
   color: white;
   text-align: left;
-  background-color: #4e87d1;
+  background-color: #99b3ff;
 }
 
 [tabindex="-1"]:focus {
@@ -140,8 +140,6 @@ blockquote {
 
 dfn {
   font-style: italic;
-}
- {
   font-weight: bolder;
 }
 
@@ -4892,6 +4890,16 @@ input[type="button"].btn-block {
   padding: 2rem 1rem;
   margin-bottom: 0rem;
   background-image: url('http://www.collingwoodphotography.co.uk/pulsepro/data/img/gallery/Architecture/Londonbridgebuilding2.jpg');
+  background-position: 0% 25%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 0.3rem;
+}
+
+.jumbotron2 {
+  padding: 2rem 1rem;
+  margin-bottom: 0rem;
+  background-color: #542f14;
   background-position: 0% 25%;
   background-size: cover;
   background-repeat: no-repeat;
