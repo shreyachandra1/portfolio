@@ -191,13 +191,11 @@ a {
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
-  font-weight: bold;
 }
 
 a:hover {
   color: #FFFFFF;
   text-decoration: underline;
-  font-weight: bold;
 }
 
 a:not([href]):not([tabindex]) {
