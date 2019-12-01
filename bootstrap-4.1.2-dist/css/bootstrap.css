@@ -140,8 +140,8 @@ blockquote {
 
 .home-page {
   font-family: cursive, fantasy;
-  font-size: 150%;
-  color: #40E0D0;
+  font-size: large;
+  color: "orange";
 }
 
 .center-screen {
