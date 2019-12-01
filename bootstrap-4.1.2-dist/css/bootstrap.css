@@ -42,7 +42,7 @@
 }
 
 html {
-  font-family: sans-serif;
+  font-family: serif;
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -66,7 +66,8 @@ body {
   line-height: 1.5;
   color: white;
   text-align: left;
-  background-color: #99b3ff;
+  background-color: #000000;
+  color: #40E0D0;
 }
 
 [tabindex="-1"]:focus {
@@ -3960,6 +3961,7 @@ input[type="button"].btn-block {
 .nav-pills .show > .nav-link {
   color: #000000;
   background-color: #40E0D0;
+  font-style: bolder;
 }
 
 .nav-fill .nav-item {
