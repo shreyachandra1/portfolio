@@ -42,7 +42,7 @@
 }
 
 html {
-  font-family: sans-serif;
+  font-family: serif;
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -60,11 +60,10 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 
 body {
   margin: 0;
-  font-family: sans-serif;
+  font-family: serif;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: white;
   text-align: left;
   background-color: #000000;
   color: #FFFFFF;
@@ -140,14 +139,14 @@ blockquote {
 }
 
 .home-page {
-  font-family: "Didot", sans-serif;
+  font-family: "Didot", serif;
   font-size: 400%;
   font-weight: bold;
   color: #FFFFFF;
 }
 
 .about-page {
-  font-family: "Didot", sans-serif;
+  font-family: "Didot", serif;
   font-size: 250%;
   font-weight: bold;
   color: #FFFFFF;
