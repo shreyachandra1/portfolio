@@ -4927,7 +4927,7 @@ input[type="button"].btn-block {
   margin-bottom: 0rem;
   background-image: url(images/shreya_paso_robles.jpg);
   min-height: 100%;
-  min-width: 100%;
+  min-width: 50%;
   width: auto;
   height: auto;
   position: fixed;
