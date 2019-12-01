@@ -3909,6 +3909,7 @@ input[type="button"].btn-block {
   margin-bottom: 0;
   list-style: none;
   color: #ff66b3;
+  font-style: bold;
 }
 
 .nav-link {
