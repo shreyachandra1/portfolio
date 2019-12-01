@@ -4889,7 +4889,7 @@ input[type="button"].btn-block {
 .jumbotron {
   padding: 2rem 1rem;
   margin-bottom: 0rem;
-  background-image: url('shreya_paso_robles.jpg');
+  background-image: url(images/shreya_paso_robles.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 0.3rem;
