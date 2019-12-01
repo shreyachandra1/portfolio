@@ -4963,8 +4963,7 @@ input[type="button"].btn-block {
   width: auto;
   height: auto;
   position: relative;
-  background-size: cover;
-  object-fit: cover;
+  background-size: fill;
   background-repeat: no-repeat;
   border-radius: 0.3rem;
 }
