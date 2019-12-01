@@ -143,7 +143,7 @@ blockquote {
   font-family: "Palatino", serif;
   font-size: 400%;
   font-weight: bold;
-  color: #40E0D0;
+  color: #FFFFFF;
 }
 
 .center-screen {
@@ -4930,7 +4930,7 @@ input[type="button"].btn-block {
   min-width: 50%;
   width: auto;
   height: auto;
-  position: fixed;
+  position: relative;
   background-color: #542f14;
   background-position: 0% 25%;
   background-size: cover;
