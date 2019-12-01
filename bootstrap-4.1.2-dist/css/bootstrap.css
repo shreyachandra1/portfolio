@@ -139,14 +139,13 @@ blockquote {
 }
 
 .home-page {
-  font-family: "Jazz LET", "Trattatello", fantasy;
+  font-family: "Trattatello", fantasy;
 }
 
 .center-screen {
-  position: fixed;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle;
 }
 
 dfn {
