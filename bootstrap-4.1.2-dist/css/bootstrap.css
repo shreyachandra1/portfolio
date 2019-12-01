@@ -138,11 +138,11 @@ blockquote {
   margin: 0 0 1rem;
 }
 
-home-page {
+.home-page {
   font-family: "Chalkduster", "Trattatello", fantasy;
 }
 
-vertical-align {
+.vertical-align {
   vertical-align: middle;
 }
 
