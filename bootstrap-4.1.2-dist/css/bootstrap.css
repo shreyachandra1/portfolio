@@ -4937,6 +4937,7 @@ input[type="button"].btn-block {
   background-repeat: no-repeat;
   border-radius: 0.3rem;
   text-align: center;
+  font-size: 250%;
 }
 
 .jumbotron3 {
