@@ -3916,6 +3916,7 @@ input[type="button"].btn-block {
   display: block;
   padding: 0.5rem 1rem;
   color: #ff66b3;
+  font-style: bold;
 }
 
 .nav-link:hover, .nav-link:focus {
@@ -3945,7 +3946,7 @@ input[type="button"].btn-block {
 }
 
 .nav-tabs .nav-link.disabled {
-  color: #40E0D0;
+  color: #ff66b3;
   background-color: transparent;
   border-color: transparent;
 }
@@ -3955,6 +3956,7 @@ input[type="button"].btn-block {
   color: #ff66b3;
   background-color: #fff;
   border-color: #dee2e6 #dee2e6 #fff;
+  font-style: bold;
 }
 
 .nav-tabs .dropdown-menu {
@@ -3971,7 +3973,7 @@ input[type="button"].btn-block {
 .nav-pills .show > .nav-link {
   color: #FFFFFF;
   background-color: #ff66b3;
-  font-style: bolder;
+  font-style: bold;
 }
 
 .nav-fill .nav-item {
