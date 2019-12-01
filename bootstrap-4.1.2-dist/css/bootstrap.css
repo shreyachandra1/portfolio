@@ -139,9 +139,9 @@ blockquote {
 }
 
 .home-page {
-  font-family: fantasy, cursive;
-  font-size: 100%;
-  font-color: #FF1493;
+  font-family: cursive, fantasy;
+  font-size: 150%;
+  color: #FF1493;
 }
 
 .center-screen {
