@@ -4958,7 +4958,7 @@ input[type="button"].btn-block {
   padding: 2rem 1rem;
   margin-bottom: 0rem;
   background-image: url(images/projects_paso_robles.jpg);
-  max-height: 50%;
+  min-height: 50%;
   min-width: 100%;
   width: auto;
   height: auto;
