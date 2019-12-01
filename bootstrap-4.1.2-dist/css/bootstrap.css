@@ -4928,6 +4928,8 @@ input[type="button"].btn-block {
   background-image: url(images/shreya_paso_robles.jpg);
   min-height: 100%;
   min-width: 50%;
+  width: auto;
+  height: auto;
   position: fixed;
   background-color: #542f14;
   background-position: 0% 25%;
