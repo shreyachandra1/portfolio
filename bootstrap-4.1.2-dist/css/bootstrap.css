@@ -139,12 +139,11 @@ blockquote {
 }
 
 .home-page {
-  font-family: "Trattatello", fantasy;
+  font-family: cursive, fantasy;
 }
 
 .center-screen {
   text-align: center;
-  display: table-cell;
   vertical-align: middle;
 }
 
