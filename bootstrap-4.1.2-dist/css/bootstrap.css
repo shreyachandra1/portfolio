@@ -138,6 +138,14 @@ blockquote {
   margin: 0 0 1rem;
 }
 
+home-page {
+  font-family: "Chalkduster", "Trattatello", fantasy;
+}
+
+vertical-align {
+  vertical-align: middle;
+}
+
 dfn {
   font-style: italic;
   font-weight: bolder;
