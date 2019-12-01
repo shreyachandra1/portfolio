@@ -139,11 +139,14 @@ blockquote {
 }
 
 .home-page {
-  font-family: "Chalkduster", "Trattatello", fantasy;
+  font-family: "Jazz LET", "Trattatello", fantasy;
 }
 
-.vertical-align {
-  vertical-align: middle;
+.center-screen {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 dfn {
