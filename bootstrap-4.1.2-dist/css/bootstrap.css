@@ -4962,12 +4962,12 @@ input[type="button"].btn-block {
   min-width: 100%;
   width: auto;
   height: auto;
-  position: fixed;
+  position: absolute;
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 0.3rem;
   font-family: "Palatino", serif;
-  font-size: 400%;
+  font-size: 150%;
   font-weight: bold;
 }
 
