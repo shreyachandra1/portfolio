@@ -3958,8 +3958,8 @@ input[type="button"].btn-block {
 
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
-  color: #fff;
-  background-color: #542f14;
+  color: #000000;
+  background-color: #40E0D0;
 }
 
 .nav-fill .nav-item {
