@@ -4953,6 +4953,12 @@ input[type="button"].btn-block {
   font-weight: bold;
 }
 
+.projects {
+  font-family: "Palatino", serif;
+  font-size: 350%;
+  font-weight: bold;
+}
+
 .jumbotron3 {
   padding: 2rem 1rem;
   margin-bottom: 0rem;
