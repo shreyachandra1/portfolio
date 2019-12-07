@@ -4967,11 +4967,9 @@ input[type="button"].btn-block {
   box-sizing: border-box;
   width: auto;
   height: auto;
-  position: absolute;
+  position: relative;
+  background-size: cover;
   border-radius: 0.3rem;
-  font-family: "Palatino", serif;
-  font-size: 150%;
-  font-weight: bold;
 }
 
 .jumbotron4 {
