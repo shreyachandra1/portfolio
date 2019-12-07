@@ -4966,6 +4966,7 @@ input[type="button"].btn-block {
   margin-bottom: 2rem;
   box-sizing: border-box;
   background-image: url(images/paso_robles_2.jpg);
+  min-width: 100%;
   width: auto;
   height: auto;
   position: absolute;
