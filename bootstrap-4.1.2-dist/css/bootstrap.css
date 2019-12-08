@@ -4990,6 +4990,11 @@ input[type="button"].btn-block {
   font-family: "Palatino", serif;
   font-size: 400%;
   font-weight: bold;
+  -webkit-transform:rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
 }
 
 .jumbotron5 {
