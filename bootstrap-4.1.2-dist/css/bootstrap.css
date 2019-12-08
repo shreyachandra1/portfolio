@@ -4975,11 +4975,11 @@ input[type="button"].btn-block {
 }
 
 .resume {
-  -webkit-transform:rotate(360deg);
-  -moz-transform: rotate(360deg);
-  -ms-transform: rotate(360deg);
-  -o-transform: rotate(360deg);
-  transform: rotate(360deg);
+  font-family: "Didot", serif;
+  font-size: 400%;
+  font-weight: bold;
+  min-height: 50%;
+  min-width: 100%;
 }
 .jumbotron4 {
   padding: 2rem 1rem;
