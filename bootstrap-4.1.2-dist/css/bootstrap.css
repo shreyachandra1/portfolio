@@ -4972,9 +4972,6 @@ input[type="button"].btn-block {
   position: relative;
   background-size: cover;
   border-radius: 0.3rem;
-  font-family: "Palatino", serif;
-  font-size: 400%;
-  font-weight: bold;
 }
 
 .resume {
@@ -4997,6 +4994,9 @@ input[type="button"].btn-block {
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 0.3rem;
+  font-family: "Palatino", serif;
+  font-size: 400%;
+  font-weight: bold;
 }
 
 .jumbotron5 {
