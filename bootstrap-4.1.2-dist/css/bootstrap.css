@@ -5002,7 +5002,7 @@ input[type="button"].btn-block {
   margin-bottom: 0rem;
   background-image: url(images/paso_contact.jpg);
   min-height: 100%;
-  min-width: 50%;
+  min-width: 100%;
   width: auto;
   height: auto;
   position: fixed;
