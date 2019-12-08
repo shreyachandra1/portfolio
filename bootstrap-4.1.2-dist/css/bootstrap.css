@@ -4974,6 +4974,13 @@ input[type="button"].btn-block {
   border-radius: 0.3rem;
 }
 
+.resume {
+  -webkit-transform:rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
 .jumbotron4 {
   padding: 2rem 1rem;
   margin-bottom: 0rem;
@@ -4982,7 +4989,7 @@ input[type="button"].btn-block {
   min-width: 50%;
   width: auto;
   height: auto;
-  position: fixed;
+  position: relative;
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 0.3rem;
