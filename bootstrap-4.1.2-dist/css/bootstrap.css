@@ -147,6 +147,24 @@ blockquote {
   font-weight: bold;
   color: #FFFFFF;
 }
+.contactme {
+  font-family: "Didot", serif;
+  font-size: 200%;
+  font-weight: bold;
+  color: #FFFFFF;
+  }
+
+.contactme2{
+  font-family: "Gill Sans", serif;
+  font-size: 150%;
+  color: #FFFFFF;
+}
+
+.contactme3 {
+  font-family: "Gill Sans", serif;
+  font-size: 100%;
+  color: #FFFFFF;
+}
 
 .about-page {
   font-family: "Didot", serif;
@@ -1110,6 +1128,7 @@ pre code {
     -ms-flex-order: -1;
     order: -1;
   }
+  
   .order-md-last {
     -ms-flex-order: 13;
     order: 13;
