@@ -4977,15 +4977,20 @@ input[type="button"].btn-block {
 .jumbotron4 {
   padding: 2rem 1rem;
   margin-bottom: 0rem;
-  background-image: url(images/paso_robles_1.jpg);
+  background-image: url(images/paso_robles_3.jpg);
   min-height: 100%;
-  min-width: 100%;
+  min-width: 50%;
   width: auto;
   height: auto;
   position: fixed;
+  background-position: 0% 25%;
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 0.3rem;
+  text-align: center;
+  font-family: "Palatino", serif;
+  font-size: 400%;
+  font-weight: bold;
 }
 
 .jumbotron5 {
