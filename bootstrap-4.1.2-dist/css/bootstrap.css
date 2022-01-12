@@ -5680,7 +5680,7 @@ button.close {
   text-transform: none;
   letter-spacing: normal;
   word-break: normal;
-  word-spacing: normal;
+  word-spacing: 0.1rem;
   white-space: normal;
   line-break: auto;
   font-size: 0.875rem;
